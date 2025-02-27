@@ -1,0 +1,12 @@
+
+.header {
+  width: 100%;
+}
+
+.header_theme_dark {
+  color: #fff;
+}
+
+.header__title {
+  font-size: 3em;
+}
